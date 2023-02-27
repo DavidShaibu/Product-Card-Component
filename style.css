@@ -147,9 +147,9 @@ del {
     margin-bottom: 2em;
     border-radius: 5px;
     background: hsl(158, 36%, 37%);
-    opacity: .9;
     font-weight: 700;
     text-align: center;
+    opacity: 0.8;
 }
 
 .btn-main:hover,
